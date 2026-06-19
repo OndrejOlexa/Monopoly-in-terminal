@@ -149,11 +149,6 @@ Hra zobrazuje v reálnom čase:
 ./z4 -n 4 -g
 ```
 
-### Hra pre 3 hráčov so zobrazením dosky
-```bash
-./z4 -n 3 -s
-```
-
 ## Štruktúra projektu
 
 ```
@@ -174,11 +169,3 @@ Monopoly-in-terminal/
 - Hra je vyprojektovaná pre **zjednodušenú verziu Monopoly** s 24 poliami a 16 nehnuteľnosťami
 - Rozhranie sa prispôsobí veľkosti tvojho terminálu (minimálne 80×24 znakov)
 - Farby sa použijú iba ak tvoj terminál ich podporuje
-
-## Autori
-
-Projekt vytvoril Ondrej Olexa
-
-## Licencia
-
-Projekt je momentálne bez špecifikovanej licencie. Podľa potreby si ju môžeš pridať.
